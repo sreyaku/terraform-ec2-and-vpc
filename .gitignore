@@ -1,4 +1,8 @@
-.teeraform.lock.hcl
+
+.terraform.lock.hcl
+
 terraform.tfstate.d
 
 .terraform.tfstate.lock.info
+
+terraform.tfstate
